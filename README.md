@@ -1,0 +1,4 @@
+- 👋 Hello, I'm Alexander
+- 🌱 Now I’m studying to become a web developer, I’m completing the training on my own.
+- 💞️ I am looking for cooperation in developing web applications for social networks.
+- My files are for personal use only and not for commercial use.
